@@ -1,2 +1,2 @@
-# C-Homeworks-Introductory
+# Introductory_Problems
 Beginner_lessons
